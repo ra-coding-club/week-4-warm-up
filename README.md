@@ -20,15 +20,15 @@ Example: JavaScript (JS) is used to add _________ and behavior to regular ‘ol 
 
 ### Questions
 
-6. What is one of the hardest things to learn in programming? What does it involve (in your own words)? What does it require?
+7. What is one of the hardest things to learn in programming? What does it involve (in your own words)? What does it require?
 
-7. *Finish the sentence by quoting the article:* The more you code... 
+8. *Finish the sentence by quoting the article:* The more you code... 
 
-8. *True or False* - The application process is only for apps and can never be applied to anything.
+9. *True or False* - The application process is only for apps and can never be applied to anything.
 
-9. Once you’ve planned out the content of a simple webpage, what is the next logical step in your own words?
+10. Once you’ve planned out the content of a simple webpage, what is the next logical step in your own words?
 
-10. Summarize the five steps of planning a simple website in your own words.
+11. Summarize the five steps of planning a simple website in your own words.
 
 ### Answers
 
@@ -53,3 +53,5 @@ Example Answer: animation, static
 9. 
 
 10. 
+
+11.
