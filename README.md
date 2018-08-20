@@ -16,6 +16,8 @@ Example: JavaScript (JS) is used to add _________ and behavior to regular ‘ol 
 
 5. Application Creation ______: Design - Brainstorm, ____________; Develop - ______, Debug, Compile; ____________ - Package, Market, Sell.
 
+6. The three reference sites we've learned so far in this club are W3 ______, ______ Overflow, and Mozilla _________ Network.
+
 ### Questions
 
 6. What is one of the hardest things to learn in programming? What does it involve (in your own words)? What does it require?
